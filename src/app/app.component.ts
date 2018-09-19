@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { $ } from 'protractor';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ng4';
+  title = 'angular6';
 }
